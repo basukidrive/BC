@@ -1,0 +1,33 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Visi dan Misi"
+    id="id-a72df252110f4df0ada494e5eee5a88b">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-39488ebc1313421aae7e4cfb56f3de13"
+      font="1|Times New Roman|18.0|0|WINDOWS|1|-36|0|0|0|400|0|0|0|0|3|2|1|18|Times New Roman">
+    <bounds
+        x="108"
+        y="204"
+        width="645"
+        height="340"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-90151321d6ad43a6bd349dfcdf710c62"
+        font="1|Times New Roman|18.0|0|WINDOWS|1|-36|0|0|0|400|0|0|0|0|3|2|1|18|Times New Roman"
+        textPosition="1">
+      <bounds
+          x="36"
+          y="168"
+          width="577"
+          height="133"/>
+      <archimateElement
+          xsi:type="archimate:CourseOfAction"
+          href="CourseOfAction_id-910bb6224d0648a8aa39751d42913d8e.xml#id-910bb6224d0648a8aa39751d42913d8e"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:CourseOfAction"
+        href="CourseOfAction_id-5e9bc6cf66484b7580057770268b46a6.xml#id-5e9bc6cf66484b7580057770268b46a6"/>
+  </children>
+</archimate:ArchimateDiagramModel>
