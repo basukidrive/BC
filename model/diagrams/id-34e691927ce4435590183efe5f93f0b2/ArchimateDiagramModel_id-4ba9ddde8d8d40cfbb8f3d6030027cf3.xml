@@ -159,6 +159,7 @@
       id="id-5f19facf9cac432c8c3fd70b1332f1e0"
       targetConnections="id-eb6836eb2de04d36bf6940d06de926b6"
       font="1|Segoe UI|14.0|0|WINDOWS|1|-28|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#80ffff"
       textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
