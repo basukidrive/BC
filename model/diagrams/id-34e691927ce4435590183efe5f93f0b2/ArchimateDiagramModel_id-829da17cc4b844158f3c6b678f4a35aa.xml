@@ -835,9 +835,9 @@
             href="AssociationRelationship_id-178a94b0dc9b46058895f1e055b6a168.xml#id-178a94b0dc9b46058895f1e055b6a168"/>
       </sourceConnections>
       <bounds
-          x="744"
-          y="234"
-          width="121"
+          x="738"
+          y="231"
+          width="133"
           height="61"/>
       <archimateElement
           xsi:type="archimate:BusinessActor"
