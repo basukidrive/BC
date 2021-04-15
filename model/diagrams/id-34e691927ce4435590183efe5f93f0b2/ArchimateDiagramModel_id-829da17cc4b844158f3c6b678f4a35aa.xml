@@ -269,10 +269,10 @@
           href="CompositionRelationship_id-cddb684bba0f40089184fa73ed406c45.xml#id-cddb684bba0f40089184fa73ed406c45"/>
     </sourceConnections>
     <bounds
-        x="72"
-        y="96"
+        x="60"
+        y="60"
         width="1033"
-        height="481"/>
+        height="493"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-297bec061dc24cafbb926cd3065bcb72"
@@ -901,6 +901,18 @@
       <archimateElement
           xsi:type="archimate:BusinessActor"
           href="BusinessActor_id-c5157e5367e844169c88dad2a810da1a.xml#id-c5157e5367e844169c88dad2a810da1a"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-457918b81fc143ebb3ce130dc5f16860">
+      <bounds
+          x="776"
+          y="333"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessService"
+          href="BusinessService_id-612675d49d9f4942bb956c169dd49ba2.xml#id-612675d49d9f4942bb956c169dd49ba2"/>
     </children>
     <archimateElement
         xsi:type="archimate:BusinessActor"
